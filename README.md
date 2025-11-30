@@ -25,7 +25,7 @@ This step adds the API key configuration so the AI model can be used safely insi
 [DONE] Step 3: Defining Structured Data Models for Itinerary Planning    
 This step introduces the Pydantic models that control and validate the format of the itinerary data.
 
-[TO-DO] Step 4: Initialising the AI Model for Travel Reasoning    
+[DONE] Step 4: Initialising the AI Model for Travel Reasoning    
 This step loads and configures the AI model that will analyse and generate the trip itinerary.
 
 [TO-DO] Step 5: Utility Logic for Checking and Cleaning Travel Data    
