@@ -16,26 +16,26 @@ I chose this project because I wanted to learn how AI can solve real problems th
 ## Plan
 I plan to execute these steps to complete my project:
 
-[TO-DO] *Step 1: Project Initialization & Environment Setup*    
+[DONE] Step 1: Project Initialization & Environment Setup    
 This step prepares the notebook, installs dependencies, and sets up the environment needed for the system to run.
 
-[TO-DO] *Step 2: Secure API Configuration & System Access*   
+[TO-DO] Step 2: Secure API Configuration & System Access   
 This step adds the API key configuration so the AI model can be used safely inside the notebook.
 
-[TO-DO] *Step 3: Defining Structured Data Models for Itinerary Planning*    
+[TO-DO] Step 3: Defining Structured Data Models for Itinerary Planning    
 This step introduces the Pydantic models that control and validate the format of the itinerary data.
 
-[TO-DO] *Step 4: Initialising the AI Model for Travel Reasoning*    
+[TO-DO] Step 4: Initialising the AI Model for Travel Reasoning    
 This step loads and configures the AI model that will analyse and generate the trip itinerary.
 
-[TO-DO] *Step 5: Utility Logic for Checking and Cleaning Travel Data*    
+[TO-DO] Step 5: Utility Logic for Checking and Cleaning Travel Data    
 This step adds helper functions that support conflict detection, formatting, and reasoning.
 
-[TO-DO] *Step 6: Core Itinerary Planning Engine*    
+[TO-DO] Step 6: Core Itinerary Planning Engine    
 This step contains the main logic that creates the structured travel itinerary using the AI model.
 
-[TO-DO] *Step 7: User Input Layer & Itinerary Generation Interface*    
+[TO-DO] Step 7: User Input Layer & Itinerary Generation Interface    
 This step allows the user to enter their trip details and receive a generated itinerary.
 
-[TO-DO] *Step 8: Conflict Resolution & Final Cost Breakdown Output*    
+[TO-DO] Step 8: Conflict Resolution & Final Cost Breakdown Output    
 This step displays how conflicts were fixed and shows the final cost breakdown for clarity.
