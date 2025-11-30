@@ -22,7 +22,7 @@ This step prepares the notebook, installs dependencies, and sets up the environm
 [DONE] Step 2: Secure API Configuration & System Access   
 This step adds the API key configuration so the AI model can be used safely inside the notebook.
 
-[TO-DO] Step 3: Defining Structured Data Models for Itinerary Planning    
+[DONE] Step 3: Defining Structured Data Models for Itinerary Planning    
 This step introduces the Pydantic models that control and validate the format of the itinerary data.
 
 [TO-DO] Step 4: Initialising the AI Model for Travel Reasoning    
