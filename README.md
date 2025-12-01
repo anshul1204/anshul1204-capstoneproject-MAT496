@@ -37,5 +37,5 @@ This step contains the main logic that creates the structured travel itinerary u
 [DONE] Step 7: User Input Layer & Itinerary Generation Interface    
 This step allows the user to enter their trip details and receive a generated itinerary.
 
-[TO-DO] Step 8: Conflict Resolution & Final Cost Breakdown Output    
+[DONE] Step 8: Conflict Resolution & Final Cost Breakdown Output    
 This step displays how conflicts were fixed and shows the final cost breakdown for clarity.
