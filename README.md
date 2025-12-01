@@ -31,7 +31,7 @@ This step loads and configures the AI model that will analyse and generate the t
 [DONE] Step 5: Utility Logic for Checking and Cleaning Travel Data    
 This step adds helper functions that support conflict detection, formatting, and reasoning.
 
-[TO-DO] Step 6: Core Itinerary Planning Engine    
+[DONE] Step 6: Core Itinerary Planning Engine    
 This step contains the main logic that creates the structured travel itinerary using the AI model.
 
 [TO-DO] Step 7: User Input Layer & Itinerary Generation Interface    
