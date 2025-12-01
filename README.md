@@ -34,7 +34,7 @@ This step adds helper functions that support conflict detection, formatting, and
 [DONE] Step 6: Core Itinerary Planning Engine    
 This step contains the main logic that creates the structured travel itinerary using the AI model.
 
-[TO-DO] Step 7: User Input Layer & Itinerary Generation Interface    
+[DONE] Step 7: User Input Layer & Itinerary Generation Interface    
 This step allows the user to enter their trip details and receive a generated itinerary.
 
 [TO-DO] Step 8: Conflict Resolution & Final Cost Breakdown Output    
