@@ -28,7 +28,7 @@ This step introduces the Pydantic models that control and validate the format of
 [DONE] Step 4: Initialising the AI Model for Travel Reasoning    
 This step loads and configures the AI model that will analyse and generate the trip itinerary.
 
-[TO-DO] Step 5: Utility Logic for Checking and Cleaning Travel Data    
+[DONE] Step 5: Utility Logic for Checking and Cleaning Travel Data    
 This step adds helper functions that support conflict detection, formatting, and reasoning.
 
 [TO-DO] Step 6: Core Itinerary Planning Engine    
