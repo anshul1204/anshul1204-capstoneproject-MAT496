@@ -13,6 +13,9 @@ I chose this project because I wanted to learn how AI can solve real problems th
 - To create something simple, practical, and easy for anyone to use  
 - To get hands-on experience with organising code into meaningful stages  
 
+## Video Summary Link
+https://drive.google.com/drive/folders/1e5cdSPml8jYzQlQyLjRC424z12veEUtU?usp=sharing
+
 ## Plan
 I plan to execute these steps to complete my project:
 
